@@ -11,7 +11,7 @@
       ]
     ],
     "mcu": "stm32f401rct6",
-    "variant": "Artillery_Ruby"
+    "variant": "ARTILLERY_RUBY"
   },
   "debug": {
     "jlink_device": "STM32F401RC",
